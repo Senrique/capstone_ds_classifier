@@ -49,7 +49,7 @@ In this project, we learned how to develop a convolutional neural network to per
 * Increase the number of data points used to develop the model
 * Increase the number of epochs used to develop the model
 
-The analysis is summarized in this blog [post](https://suhaskaranth2008.medium.com/seattle-airbnb-data-a-brief-data-exploration-b68fb891952e).
+The analysis is summarized in this blog [post](https://suhaskaranth2008.medium.com/dog-breed-classifier-image-classification-using-cnn-af2bb97314b).
 
 ## Licensing, Authors, Acknowledgements
 

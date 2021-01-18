@@ -55,6 +55,4 @@ The analysis is summarized in this blog [post](https://suhaskaranth2008.medium.c
 
 The data and main parts of the code was made available by Udacity and you can view the it [here](https://github.com/udacity/dog-project). I have to acknowledge Stackoverflow community as they rescued me from the errors and bugs faced during the analysis.
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Senrique/Seattle-AirBnB/blob/main/LICENSE) file for details
-
 Please feel free to use my code for your purposes.
